@@ -12,3 +12,9 @@ node_modules
 
 # Ignora archivos de configuración SASS
 .sass-cache
+
+# Ignora la carpeta dist
+dist
+
+# Ignora el archivo package-lock.json
+package-lock.json
